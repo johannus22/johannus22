@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Vue.js<br>
-📚 Graduated from MSEUFCI Yr. 2024 <br>
+📚 Alumnus MSEUFCI Yr. 2024 <br>
 🎹 Musician <br>
 
 
