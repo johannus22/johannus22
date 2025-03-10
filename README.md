@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Vue.js, Livewire<br>
+🌱 I’m currently Next.js<br>
 📚 Alumnus MSEUFCI Yr. 2024 <br>
 🎹 Musician <br>
 
